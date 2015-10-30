@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Uinstagram</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="error_image">Tidak ada gambar yang dipilih</string>
+    <string name="something_wrong">Terjadi kesalahan</string>
+    <string name="cancel_take">Batal mengambil gambar</string>
+    <string name="berhasil_disimpan">Berhasil disimpan</string>
+</resources>
