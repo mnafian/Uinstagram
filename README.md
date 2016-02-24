@@ -12,7 +12,7 @@ effects factory dengan pengolahan melalui openGL rendering.
 
 ##Preview :
 
-[linkname](https://www.youtube.com/watch?v=eXY7pTgyJlQ)
+[![Youtube Preview](http://img.youtube.com/vi/eXY7pTgyJlQ/0.jpg)](https://www.youtube.com/watch?v=eXY7pTgyJlQ)
 
 ##License
 -------
